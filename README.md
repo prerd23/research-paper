@@ -1,4 +1,5 @@
 # research-paper
+research paper
 # 📡 Resource Allocation for D2D Aided Networks in 6G Industrial IIoT
 
 This repository contains research work on efficient **resource allocation in 6G-enabled Industrial IoT** environments using **Device-to-Device (D2D) Communication**, **Digital Twin technology**, **Edge Computing**, and **Federated Reinforcement Learning**.
